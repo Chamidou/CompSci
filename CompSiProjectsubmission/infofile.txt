@@ -1,0 +1,10 @@
+#File containing data for the Project Class
+#Body, mass(kg), inital position(x),inital position(y), ininital velocity(x), initial velocity(y)
+Sun, 1.99e30, 0.0, 0.0, 0.0, 0.0
+Mercury, 3.3011e23, 5.79e10, 0.0, 0.0, 47.362e3
+Venus, 4.8675e24, 1.082e11, 0.0, 0.0, 35.02e3
+Earth, 5.97237e24, 1.496e11, 0.0, 0.0, 29.78e3
+Mars, 6.4171e23, 2.28e11, 0.0, 0.0, 24.3e3
+Jupiter, 1.8982e27, 7.79e11, 0.0, 0.0, 13.1e3
+SatelliteM, 2e3, 1.498e11, 0.0, 0.0, 30.697e3
+SatelliteJ, 2e3, 1.4981e11, 0.0, 0.0, 30.7e3
